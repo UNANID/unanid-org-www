@@ -1,8 +1,11 @@
 :host {
   .title {
     font-weight: bold;
-    font-size: 3.3em;
-    line-height: 0.85;
+    font-size: 2.8em;
+    line-height: 0.8;
+  }
+
+  .logo {
   }
 
   .co-brand {
@@ -13,9 +16,9 @@
 
     .title {
       color: RGBA(0, 0, 0, 0.55);
-      font-size: 2.5em;
+      font-size: 2.2em;
       font-weight: lighter;
-      line-height: 1;
+      line-height: 0.9;
 
       .acronym {
         font-size: 0.9em;

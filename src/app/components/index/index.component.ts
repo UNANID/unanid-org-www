@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import {Component, HostBinding} from '@angular/core';
 
 @Component({
   selector: 'app-index',
@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./index.component.scss']
 })
 export class IndexComponent {
-
+  // @HostBinding('class')
+  // elementClass = 'w-full';
 }
